@@ -16,9 +16,10 @@ body{
     width: 100%;
     height: auto;
     background-color: var(--30-color);
+      transition: all .3s;
 }
 #First-Section:hover{
-
+transform: scale(1.1);
 }
 .container{
     padding-bottom: 2.5%;
