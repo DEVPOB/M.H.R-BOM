@@ -17,6 +17,9 @@ body{
     height: auto;
     background-color: var(--30-color);
 }
+#First-Section:hover{
+
+}
 .container{
     padding-bottom: 2.5%;
 }
