@@ -17,11 +17,6 @@ body{
     height: auto;
     background-color: var(--30-color);
 }
-#First-Section:hover{
-    width: 200%;
-    height: auto;
-    background-color: var(--30-color);
-}
 .container{
     padding-bottom: 2.5%;
 }
