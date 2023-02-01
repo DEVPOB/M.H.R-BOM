@@ -18,7 +18,7 @@ body{
     background-color: var(--30-color);
       transition: all .3s;
 }
-.container img{
+.container img:hover{
 transform: scale(1.1);
 }
 .container{
